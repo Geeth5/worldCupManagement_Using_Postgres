@@ -18,3 +18,9 @@ Note: These are the rules followed to create database system, see the documentat
       - Umpire Two(Square Leg umpire)
       - Third Umpire(Sideline umpire for reviews)
 
+## 👨‍💻 Contributors
+Member | SRN | Sec 
+--- | --- | ---
+Aryan Kumar | PES2UG19CS067 | B
+Geethika K | PES2UG19CS127 | B<br>
+G P Prerna | PES2UG19CS134 | B
